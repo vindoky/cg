@@ -2,7 +2,7 @@ name: Scraper Republic of the Congo
 
 on:
   schedule:
-    - cron: '53 17 */2 * *'
+    - cron: '39 12 * * *'
   workflow_dispatch:
 
 # Prevent a manual run and a scheduled run (or two schedules) from overlapping.
